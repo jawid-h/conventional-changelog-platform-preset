@@ -1,7 +1,7 @@
 {
-  "name": "conventional-changelog-angular",
-  "version": "5.0.13",
-  "description": "conventional-changelog angular preset",
+  "name": "conventional-changelog-platform-preset",
+  "version": "1.0.0",
+  "description": "conventional-changelog platform preset",
   "main": "index.js",
   "scripts": {
     "test-windows": "mocha --timeout 30000"
